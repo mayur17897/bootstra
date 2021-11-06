@@ -1,2 +1,2 @@
-# bootstra
+# bootstrap
 all  classes
